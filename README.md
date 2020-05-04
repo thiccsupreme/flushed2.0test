@@ -1,6 +1,6 @@
 # FlushedBot
 
-*Welcome to FlushedBot* 
+Welcome to *FlushedBot* 
     This bot was coded by *REDACTED*. To add this bot into your server, please [click here!](https://google.com) 
 
 ## About
