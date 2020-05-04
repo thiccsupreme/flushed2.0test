@@ -34,6 +34,9 @@ Welcome to *FlushedBot*
 * Checking SARS-COVID19 stats on every country in the world 
 * Information about the server the bot is in, and much more!
 
+#### Bot Information
+> This is a more niche part of my Discord bot, pertaining more to sneaker resellers who use bots. I have compiled an expansive array of information about every sneaker/collectible bot out there. 
+
 ## Getting started 
 > Once you have added this bot into your server, please use your server's #spam channel or #bot-spam to start setting up your bot. 
 * *(For moderators, you will need a #logs channel somewhere in the server so that the bot can maximize it's potential)*. The logger detects new members, leaving members, deleted members, and edited messages (more is coming to this soon!). 
