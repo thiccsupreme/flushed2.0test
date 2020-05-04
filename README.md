@@ -36,6 +36,7 @@ Welcome to *FlushedBot*
 
 #### Bot Information
 > This is a more niche part of my Discord bot, pertaining more to sneaker resellers who use bots. I have compiled an expansive array of information about every sneaker/collectible bot out there. 
+![Example](https://imgur.com/a/pot7plC)
 
 ## Getting started 
 > Once you have added this bot into your server, please use your server's #spam channel or #bot-spam to start setting up your bot. 
