@@ -79,7 +79,7 @@ ___
 * `?cat / ?dog` will scrape images of either animal
 * `?coinflip` will have the bot flip a coin.
 * `?diceroll`  will have the bot roll the dice (out of 6).
-* `?instagram <username>` will scrape information about the said IG page (no need to include `@` necessary in the command)
+* `?instagram <username>` will scrape information about the said IG page (no need to include `@` when executing the command)
 * `?rps` will send a rock-paper-scissors command
 * `?whois` will display information about the author. 
 ___
