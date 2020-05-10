@@ -84,4 +84,4 @@ ___
 * `?whois` will display information about the author. 
 ___
 
-#### For any help/concerns, you can reach me on Discord (thiccsupreme#0002) or [click here](https://twitter.com/messages/compose?recipient_id=1053363951747117058) to DM me on Twitter.
+###### For any help/concerns, you can reach me on Discord (thiccsupreme#0002) or [click here](https://twitter.com/messages/compose?recipient_id=1053363951747117058) to DM me on Twitter.
