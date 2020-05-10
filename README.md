@@ -1,7 +1,7 @@
 # FlushedBot
 
 Welcome to *FlushedBot* 
-    This bot was coded by *REDACTED*. To add this bot into your server, please [click here!](https://i.kym-cdn.com/photos/images/newsfeed/001/393/635/e2a.jpg) 
+    This bot was coded by *REDACTED*. To add this bot into your server, please [click here!](https://google.com) 
 
 ## About
 
@@ -70,7 +70,7 @@ ___
 * `?marketplaces` will show the author the recommended bot marketplaces to transact in. 
 * `?ping` will show if the bot is online and recieving data from Discord's API.
 * `?serverinfo` will display all the information about the server in which this command was executed. 
-* `?spotify` will have the bot send detailed informaton about the song either the author, or a mentioned member is listening to. *(Both will need their Spotify accounts connected to Discord - To do this go to Settings -> Connections -> Spotify)*
+* `?spotify <optional mention of a user>` will have the bot send detailed informaton about the song either the author, or a mentioned member is listening to. *(Both will need their Spotify accounts connected to Discord - To do this go to Settings -> Connections -> Spotify)*
 
 ### Fun
 
